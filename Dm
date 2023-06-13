@@ -1,1 +1,64 @@
+HTML Temel Dökümanlar
+<html>
+<head>
+<title>Buraya başlık</title>
+</head>
 
+<body>
+Görünecek metinler buraya
+</body>
+</html>
+
+Başlık Öğeleri
+<h1>En büyük başlık</h1>
+<h2> . . . </h2>
+<h3> . . . </h3>
+<h4> . . . </h4>
+<h5> . . . </h5>
+
+<h6>En küçük başlık</h6>
+
+Metin Öğeleri
+<p>Bu bir paragraf</p>
+<br> (satır atlama)
+<hr> (yatay çizgi)
+<pre>Biçimlendirilmemiş yazılar buraya</pre>
+Mantıksal Stiller
+<em>Vurgulu metin/em>
+<strong>Güçlü metin</strong>
+<code>Bilgisayar programlama kodu</code>
+Fiziksel Stiller
+<b>Koyu</b>
+<i>İtalik</i>
+Linkler ve Image Öğeleri
+<a href="http://www.fikrin.net">Bu bir link</a>
+<a href="http://www.fikrin.net"><img src="resim dosyasının yolu" alt="Alternatif metin></a>
+<a href="mailto:webmaster@htmldersleri.org">E-mail gönder </a>
+Sırasız Liste
+<ul>
+<li>İlk madde</li>
+<li>İkinci Madde</li>
+</ul>
+Sıralı Liste
+<ol>
+<li>İlk madde</li>
+<li>İkinci Madde</li>
+</ol>
+Tanımlama Listesi
+<dl>
+<dt>İlk terim</dt>
+<dd>Açıklaması</dd>
+<dt>İkinci terim</dt>
+<dd>Açıklaması</dd>
+</dl>
+Tablolar (Tables)
+<table border="1">
+<tr>
+<th>Bir başlık</th>
+<th>Bir başlık daha</th>
+</tr>
+<tr>
+<td>metin</td>
+<td>metin</td>
+</tr>
+</table>
